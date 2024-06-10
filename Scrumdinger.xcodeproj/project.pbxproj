@@ -63,10 +63,10 @@
 			children = (
 				108B7CD12C065F4000C530C3 /* Models */,
 				108B7CC32C05B68A00C530C3 /* ScrumdingerApp.swift */,
+				10EE79372C17514C00C05453 /* ScrumsView.swift */,
 				10EE79352C17474300C05453 /* TrailingIconLabelStyle.swift */,
 				108B7CC52C05B68A00C530C3 /* MeetingView.swift */,
 				108B7CD82C06646A00C530C3 /* CardView.swift */,
-				10EE79372C17514C00C05453 /* ScrumsView.swift */,
 				108B7CD42C0660B700C530C3 /* Assets.xcassets */,
 				108B7CC92C05B68B00C530C3 /* Preview Content */,
 			);
